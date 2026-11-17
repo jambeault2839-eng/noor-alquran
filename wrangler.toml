@@ -1,0 +1,8 @@
+name = "noor-alquran"
+main = "worker.js"
+compatibility_date = "2026-11-17"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "salamouni-quran"
+database_id = "b6ae6a0a-3916-4093-99b2-c6c8e11317be"
